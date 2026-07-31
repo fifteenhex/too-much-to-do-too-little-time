@@ -10,5 +10,9 @@
 ## E17
 - Get new u-boot to boot. (Partially done, claude fixed the uart issues?)
 - Get linux to boot
-- Add SMP supprt
+- Add SMP support
 
+# nolibc
+
+- send sendfile() series
+- rework, send static pie series.
