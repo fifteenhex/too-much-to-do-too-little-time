@@ -1,4 +1,8 @@
 # Mstar stuff
+## Reverse engineering
+- msc313e etc camera pipeline, in progress, claude RE'd/modelled it in QEMU
+- ssd202d h246 decoder
+
 ## Mainline
 
 ## Miyoo
