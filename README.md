@@ -21,6 +21,9 @@
 - Get linux to boot
 - Add SMP support
 
+## u-boot virt
+- Clean up virt booting series, resend
+
 # nolibc
 
 - send sendfile() series
