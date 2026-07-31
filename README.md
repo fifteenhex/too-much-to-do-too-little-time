@@ -8,6 +8,11 @@
 ## Miyoo
 
 # M68K stuff
+## Amiga
+- Clean up, resend mediator
+- Test PCI bounce buffer on A4000
+- Test Geforce 6200 "everything is VRAM" on A4000
+
 ## MVME147
 - Write new u-boot SPL with autoboot to EPROMs
 
