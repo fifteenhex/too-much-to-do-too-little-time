@@ -19,6 +19,7 @@
 
 ## E17
 - Get new u-boot to boot. (Partially done, claude fixed the uart issues?)
+  - wip: https://github.com/fifteenhex/u-boot/tree/e17
 - Get linux to boot
 - Add SMP support
 
