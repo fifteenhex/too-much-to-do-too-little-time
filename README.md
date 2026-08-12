@@ -27,6 +27,6 @@
 - Clean up virt booting series, resend
 
 # nolibc
-
+- set dirfd().
 - send sendfile() series
 - rework, send static pie series.
