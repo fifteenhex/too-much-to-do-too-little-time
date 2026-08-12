@@ -14,6 +14,9 @@
 - Test Geforce 6200 "everything is VRAM" on A4000
 - Get mah boi claude to whip a module to boot the sonnet g3 card and load linux onto it. (In progress)
 
+## MAC
+- Finish up bootable u-boot CD/HD image thing.
+
 ## MVME147
 - Write new u-boot SPL with autoboot to EPROMs
 
