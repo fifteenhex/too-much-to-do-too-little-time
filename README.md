@@ -12,7 +12,9 @@
 - Clean up, resend mediator
 - Test PCI bounce buffer on A4000
 - Test Geforce 6200 "everything is VRAM" on A4000
-- Get mah boi claude to whip a module to boot the sonnet g3 card and load linux onto it. (In progress)
+- Get mah boi claude to whip a module to boot the sonnet g3 card and load linux onto it. (done)
+  - https://github.com/fifteenhex/sonnetd
+  - https://github.com/fifteenhex/sonnetfw
 - nommu linux on amiga.
 
 ## MAC
