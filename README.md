@@ -20,6 +20,7 @@
 ## MAC
 - Finish up bootable u-boot CD/HD image thing.
 - RE radius graphics card, see if we can make mac fb less awful
+　- Started, https://github.com/fifteenhex/macgfxre
 
 ## MVME147
 - Write new u-boot SPL with autoboot to EPROMs
