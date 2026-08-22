@@ -19,6 +19,7 @@
 
 ## MAC
 - Finish up bootable u-boot CD/HD image thing.
+- RE radius graphics card, see if we can make mac fb less awful
 
 ## MVME147
 - Write new u-boot SPL with autoboot to EPROMs
