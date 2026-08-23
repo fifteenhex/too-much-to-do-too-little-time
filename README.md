@@ -19,6 +19,7 @@
 
 ## MAC
 - Finish up bootable u-boot CD/HD image thing.
+  - https://github.com/fifteenhex/u-boot/tree/oldmac-spl
 - RE radius graphics card, see if we can make mac fb less awful
   - Started, https://github.com/fifteenhex/macgfxre
 
