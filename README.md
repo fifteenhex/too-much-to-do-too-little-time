@@ -73,4 +73,8 @@ e17:/#
 
 # romjak (https://github.com/fifteenhex/romjak)
 
-- Fix it so it can split the roms for MVME147 
+- Fix it so it can split the roms for MVME147
+
+# tdfx
+
+- Finish up the verified QEMU model - WIP, claude is using the card directly now.
