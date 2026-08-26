@@ -63,6 +63,10 @@ Calibration:    106240 loops
 e17:/#
 ```
 
+## Clie
+
+68000 nommu port :D
+
 ## u-boot virt
 - Clean up virt booting series, resend
 
