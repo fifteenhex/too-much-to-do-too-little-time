@@ -71,7 +71,8 @@ e17:/#
 - Clean up virt booting series, resend
 
 # nolibc
-- set dirfd().
+- send dirfd().
+  - v1 https://lore.kernel.org/lkml/20260828112204.104111-1-daniel@thingy.jp/
 - send sendfile() series
   - v1 https://lore.kernel.org/lkml/20260828103205.384589-1-daniel@thingy.jp/
 - rework, send static pie series.
