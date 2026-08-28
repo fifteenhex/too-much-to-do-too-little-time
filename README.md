@@ -73,6 +73,7 @@ e17:/#
 # nolibc
 - set dirfd().
 - send sendfile() series
+  - v1 https://lore.kernel.org/lkml/20260828103205.384589-1-daniel@thingy.jp/
 - rework, send static pie series.
 
 # romjak (https://github.com/fifteenhex/romjak)
