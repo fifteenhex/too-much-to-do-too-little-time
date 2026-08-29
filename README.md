@@ -71,9 +71,10 @@ e17:/#
 - Clean up virt booting series, resend
 
 # nolibc
-- send dirfd().
+- send dirfd()
   - v1 https://lore.kernel.org/lkml/20260828112204.104111-1-daniel@thingy.jp/
-- send sendfile() series
+  - v2 (wip)
+- send sendfile() series (done)
   - v1 https://lore.kernel.org/lkml/20260828103205.384589-1-daniel@thingy.jp/
 - rework, send static pie series.
 
@@ -84,3 +85,8 @@ e17:/#
 # tdfx
 
 - Finish up the verified QEMU model - WIP, claude is using the card directly now.
+
+# Misc old computers
+
+- Fix Sun LX.
+  - Needs PSU replacement
