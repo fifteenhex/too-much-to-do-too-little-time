@@ -90,3 +90,7 @@ e17:/#
 
 - Fix Sun LX.
   - Needs PSU replacement
+
+# lab equipment
+
+- Get claude to RE windows driver for the logic analyzer. Write linux version
