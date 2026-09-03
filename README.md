@@ -94,3 +94,8 @@ e17:/#
 # lab equipment
 
 - Get claude to RE windows driver for the logic analyzer. Write linux version
+
+# xradio
+
+- Get claude to take the FW apart and see if it can make the driver less crap
+  - https://github.com/fifteenhex/xradio/pull/30
