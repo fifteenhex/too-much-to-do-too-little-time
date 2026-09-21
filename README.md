@@ -93,7 +93,20 @@ e17:/#
 
 # lab equipment
 
+## Ye olde LA
+
 - Get claude to RE windows driver for the logic analyzer. Write linux version
+
+## PSUs
+
+- Fix up remote controller python widget, add support for 6611C
+  - https://github.com/fifteenhex/e364xa-remotecontrol.git
+
+# Misc FPGA
+
+- Modern skeleton project for Ebaz4205
+  - Use to make SD card emulator...
+
 
 # xradio
 
