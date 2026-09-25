@@ -105,7 +105,7 @@ e17:/#
 # Misc FPGA
 
 - Modern skeleton project for Ebaz4205
-  - Use to make SD card emulator...
+  - Use to make SD card emulator... *working*
 
 
 # xradio
