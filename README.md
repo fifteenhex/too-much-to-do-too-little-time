@@ -113,3 +113,9 @@ e17:/#
 
 - Get claude to take the FW apart and see if it can make the driver less crap
   - https://github.com/fifteenhex/xradio/pull/30
+
+# smol-verse
+
+## smoldrm
+## smolbus
+## smolwebui
