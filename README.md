@@ -1,3 +1,10 @@
+# SuperH
+
+## Landisk
+
+- Get u-boot working
+- Fix all the existing kernel bugs
+
 # Mstar stuff
 ## Reverse engineering
 - msc313e etc camera pipeline, in progress, claude RE'd/modelled it in QEMU
