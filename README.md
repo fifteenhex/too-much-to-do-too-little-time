@@ -129,3 +129,4 @@ e17:/#
 ## smoldrm
 ## smolbus
 ## smolwebui
+## smolstub - https://github.com/fifteenhex/smolstub.git
