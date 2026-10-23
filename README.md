@@ -8,6 +8,9 @@
   - Borken IDE
     - v1 https://lore.kernel.org/lkml/20261017041419.311921-1-daniel@0x0f.com/
     - v2 (wip)
+   
+## SH3 thingy ma doodle
+- Get u-boot working
 
 # Mstar stuff
 ## Reverse engineering
