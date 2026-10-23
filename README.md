@@ -3,6 +3,7 @@
 ## Landisk
 
 - Get u-boot working
+  - Works, both LANDISK versions
 - Fix all the existing kernel bugs
   - Borken IDE
     - v1 https://lore.kernel.org/lkml/20261017041419.311921-1-daniel@0x0f.com/
@@ -126,7 +127,10 @@ e17:/#
 
 # smol-verse
 
+## smolutils
+  - Add memfd + futex IPC primitive
 ## smoldrm
 ## smolbus
 ## smolwebui
 ## smolstub - https://github.com/fifteenhex/smolstub.git
+## smottls
