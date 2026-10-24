@@ -10,7 +10,8 @@
     - v2 (wip)
    
 ## SH3 thingy ma doodle
-- Get u-boot working
+- Get u-boot working (sorta done)
+- Get linux booting (wip)
 
 # Mstar stuff
 ## Reverse engineering
