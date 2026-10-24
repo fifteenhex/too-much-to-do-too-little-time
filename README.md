@@ -81,6 +81,7 @@ BogoMips:       21.24
 Calibration:    106240 loops
 e17:/#
 ```
+- Create cool megademo
 
 ## Clie
 
