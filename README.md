@@ -11,7 +11,7 @@
    
 ## SH3 thingy ma doodle
 - Get u-boot working (sorta done)
-- Get linux booting (wip)
+- Get linux booting (done)
 
 # Mstar stuff
 ## Reverse engineering
