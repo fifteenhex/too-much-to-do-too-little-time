@@ -98,6 +98,10 @@ e17:/#
 - send sendfile() series (done)
   - v1 https://lore.kernel.org/lkml/20260828103205.384589-1-daniel@thingy.jp/
 - rework, send static pie series.
+- rework, send fallocate()
+  - v4 https://lore.kernel.org/lkml/20260507090353.356764-1-daniel@thingy.jp/
+- rework, send statfs()
+  - v4 (part of fallocate series) https://lore.kernel.org/lkml/20260507090353.356764-3-daniel@thingy.jp/
 
 # romjak (https://github.com/fifteenhex/romjak)
 
