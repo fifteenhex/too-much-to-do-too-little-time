@@ -25,6 +25,7 @@
 # M68K stuff
 ## Amiga
 - Clean up, resend mediator
+  - RFC https://lore.kernel.org/all/20251007092313.755856-1-daniel@thingy.jp/
 - Test PCI bounce buffer on A4000
 - Test Geforce 6200 "everything is VRAM" on A4000
 - Get mah boi claude to whip a module to boot the sonnet g3 card and load linux onto it. (done)
