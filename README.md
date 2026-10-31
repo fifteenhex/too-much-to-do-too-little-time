@@ -45,7 +45,8 @@
 
 ## MVME other
 
-- Send the mvme ethernet fixes
+- Send the mvme ethernet fixes (done)
+  - v1 https://lore.kernel.org/lkml/20261025024514.802862-1-daniel@0x0f.com/
 
 ## E17
 - Get new u-boot to boot. (Partially done, claude fixed the uart issues?)
