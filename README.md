@@ -147,3 +147,11 @@ e17:/#
 ## smolwebui
 ## smolstub - https://github.com/fifteenhex/smolstub.git
 ## smottls
+
+# PowerPC
+
+## G5 fixing upping
+
+### i2c left out, hell breaking loose issue
+
+- v1 https://lore.kernel.org/lkml/20261030232418.1145779-1-daniel@0x0f.com/
