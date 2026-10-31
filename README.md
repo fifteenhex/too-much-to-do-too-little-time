@@ -117,6 +117,8 @@ e17:/#
 
 - Finish up the verified QEMU model - WIP, claude is using the card directly now.
 
+# mesa BE fixes
+
 # Misc old computers
 
 - Fix Sun LX.
