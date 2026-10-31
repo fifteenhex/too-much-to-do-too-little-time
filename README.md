@@ -94,6 +94,10 @@ e17:/#
 ## u-boot virt
 - Clean up virt booting series, resend
 
+# OF
+- resend of/address: Drop ISA parts when !CONFIG_ISA (rebased: intern-of-address-isa-20261024)
+  - v1 https://lore.kernel.org/lkml/20260626171906.476688-1-daniel@thingy.jp/
+
 # nolibc
 - send dirfd()
   - v1 https://lore.kernel.org/lkml/20260828112204.104111-1-daniel@thingy.jp/
