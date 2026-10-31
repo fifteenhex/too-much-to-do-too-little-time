@@ -102,6 +102,8 @@ e17:/#
   - v4 https://lore.kernel.org/lkml/20260507090353.356764-1-daniel@thingy.jp/
 - rework, send statfs()
   - v4 (part of fallocate series) https://lore.kernel.org/lkml/20260507090353.356764-3-daniel@thingy.jp/
+- rework, send sh _start_c far call fix (try the .text.sorted linker section approach)
+  - v1 https://lore.kernel.org/lkml/20261022100159.525910-1-daniel@0x0f.com/
 
 # romjak (https://github.com/fifteenhex/romjak)
 
