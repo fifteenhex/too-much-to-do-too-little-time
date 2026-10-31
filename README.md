@@ -7,7 +7,7 @@
 - Fix all the existing kernel bugs
   - Borken IDE
     - v1 https://lore.kernel.org/lkml/20261017041419.311921-1-daniel@0x0f.com/
-    - v2 (wip)
+    - v2 https://lore.kernel.org/lkml/20261025034410.808796-1-daniel@0x0f.com/
    
 ## SH3 thingy ma doodle
 - Get u-boot working (sorta done)
