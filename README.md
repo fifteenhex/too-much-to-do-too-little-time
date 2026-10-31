@@ -94,7 +94,7 @@ e17:/#
 - send dirfd()
   - v1 https://lore.kernel.org/lkml/20260828112204.104111-1-daniel@thingy.jp/
   - v2 https://lore.kernel.org/lkml/20261007052914.888956-1-daniel@thingy.jp/
-  - v3 (wip)
+  - v3 https://lore.kernel.org/lkml/20261031043000.145709-1-daniel@thingy.jp/
 - send sendfile() series (done)
   - v1 https://lore.kernel.org/lkml/20260828103205.384589-1-daniel@thingy.jp/
 - rework, send static pie series.
