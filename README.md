@@ -20,6 +20,8 @@
 
 ## Mainline
 
+- Rework usb to use the new fotg210 support on top of the standard ehci
+
 ## Miyoo
 
 # M68K stuff
