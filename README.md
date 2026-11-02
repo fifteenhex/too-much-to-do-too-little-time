@@ -13,6 +13,8 @@
 - Get u-boot working (sorta done)
 - Get linux booting (done)
 
+## Recreate SuperH5
+
 # Mstar stuff
 ## Reverse engineering
 - msc313e etc camera pipeline, in progress, claude RE'd/modelled it in QEMU
