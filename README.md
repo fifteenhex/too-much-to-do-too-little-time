@@ -136,6 +136,10 @@ e17:/#
 
 - Get claude to RE windows driver for the logic analyzer. Write linux version
 
+## Yokogawa scope
+
+- Get claude to RE the USB remote protocol, wire into sigrok/pulseview
+
 ## PSUs
 
 - Fix up remote controller python widget, add support for 6611C
