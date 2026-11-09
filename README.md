@@ -160,6 +160,7 @@ e17:/#
 
 ## smolutils
   - Add memfd + futex IPC primitive
+  - Change calls to resolv to pass an open memfd instead of on the command line?
 ## smoldrm
 ## smolbus
 ## smolwebui
