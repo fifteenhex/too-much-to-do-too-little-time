@@ -125,6 +125,8 @@ e17:/#
 
 # mesa BE fixes
 
+- clanker cleaned nvidia fixes + clanker radeon fixes: https://github.com/fifteenhex/mesa/commits/intern-g5-gpu-bigendian-20261113/
+
 # Misc old computers
 
 - Fix Sun LX.
