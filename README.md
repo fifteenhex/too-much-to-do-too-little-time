@@ -27,6 +27,12 @@
 ## Miyoo
 
 # M68K stuff
+
+## General
+
+- 060 PCR cpu info
+  - v1 - https://lore.kernel.org/linux-m68k/20261119123558.2108296-1-daniel@0x0f.com/T/#t
+
 ## Amiga
 - Clean up, resend mediator
   - RFC https://lore.kernel.org/all/20251007092313.755856-1-daniel@thingy.jp/
