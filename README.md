@@ -43,8 +43,12 @@
   - https://github.com/fifteenhex/sonnetd
   - https://github.com/fifteenhex/sonnetfw
 - nommu linux on amiga.
-- Finish up "amibootng" so Amiga linux testing is less painful
-  - Test current version on the A4000
+
+### amibootng (https://github.com/fifteenhex/amibootng)
+
+- Finish up "amibootng" so Amiga linux testing is less painful (done)
+  - Test current version on the A4000 (done)
+- Make it look cool (done)
 
 ## MAC
 - Finish up bootable u-boot CD/HD image thing.
