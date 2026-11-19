@@ -164,6 +164,7 @@ e17:/#
 
 - Modern skeleton project for Ebaz4205
   - Use to make SD card emulator... *working*
+- AS02MC04
 
 
 # xradio
