@@ -106,8 +106,12 @@ e17:/#
 
 68000 nommu port :D
 
+## SORD (https://github.com/fifteenhex/sordplay)
+
 ## u-boot virt
 - Clean up virt booting series, resend
+
+
 
 # OF
 - resend of/address: Drop ISA parts when !CONFIG_ISA (rebased: intern-of-address-isa-20261024)
