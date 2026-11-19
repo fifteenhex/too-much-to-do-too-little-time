@@ -13,9 +13,10 @@
 - Get u-boot working (sorta done)
 - Get linux booting (done)
 
-## Recreate SuperH5
+## Recreate SuperH5 (https://github.com/fifteenhex/superh5re)
 
 # Mstar stuff
+
 ## Reverse engineering
 - msc313e etc camera pipeline, in progress, claude RE'd/modelled it in QEMU
 - ssd202d h246 decoder
@@ -23,7 +24,7 @@
 ## Mainline
 
 - Rework usb to use the new fotg210 support on top of the standard ehci
-
+  
 ## Miyoo
 
 # M68K stuff
