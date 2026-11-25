@@ -207,3 +207,12 @@ e17:/#
 
 - i2c left open, hell breaking loose issue
   - v1 https://lore.kernel.org/lkml/20261030232418.1145779-1-daniel@0x0f.com/
+ 
+# Clanking for a better world
+
+## Make old board clanking more automated:
+
+### Crumpet debug tool (https://github.com/fifteenhex/crumpet)
+
+- Basic version (done)
+- Use to auto-clank the MC68VZ328 board
