@@ -33,16 +33,28 @@
 
 - 060 PCR cpu info
   - v1 - https://lore.kernel.org/linux-m68k/20261119123558.2108296-1-daniel@0x0f.com/T/#t
+ 
+- GCC16 syscall register f'ing upping
+  - v1 - https://lore.kernel.org/linux-m68k/8d2febd9-3912-410d-898c-16500d2692a1@app.fastmail.com/T/#m4bc83c8fffbf5a4020541c1678bad1c4c53e9aec
+  - v2 - https://lore.kernel.org/linux-m68k/20261125014737.2421722-1-daniel@0x0f.com/T/#u
 
 ## Amiga
 - Clean up, resend mediator
   - RFC https://lore.kernel.org/all/20251007092313.755856-1-daniel@thingy.jp/
+
 - Test PCI bounce buffer on A4000
 - Test Geforce 6200 "everything is VRAM" on A4000
+
 - Get mah boi claude to whip a module to boot the sonnet g3 card and load linux onto it. (done)
   - https://github.com/fifteenhex/sonnetd
   - https://github.com/fifteenhex/sonnetfw
+  
 - nommu linux on amiga.
+
+- Fix the mouse buttons
+  - https://lore.kernel.org/linux-m68k/awXVMoykw0uYsIsO@google.com/T/#t (Done)
+ 
+- Fix the keyboard mapping
 
 ### amibootng (https://github.com/fifteenhex/amibootng)
 
