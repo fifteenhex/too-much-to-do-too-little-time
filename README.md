@@ -56,6 +56,8 @@
  
 - Fix the keyboard mapping
 
+- AmigaOS userspace emulation :DDDDD
+
 ### amibootng (https://github.com/fifteenhex/amibootng)
 
 - Finish up "amibootng" so Amiga linux testing is less painful (done)
